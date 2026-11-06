@@ -1,4 +1,4 @@
-# Escaleras Matemáticas 9° — Edición Dragón
+# Juego Matematico con tematica de grado noveno grado de secundaria— Edición Dragón
 
 Juego educativo hecho con Godot 4.3+ (funciona en 4.x).
 
